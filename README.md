@@ -18,3 +18,7 @@ To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Steps
+1. Generate data with `mock_data_2.ipynb`
+2. Send data to Pub/Sub with `send_data_to_pubsub.ipynb`
